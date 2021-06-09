@@ -16,7 +16,7 @@ $(document).ready(function () {
 });
 
 // fetch method print in console
-fetch("http://api.icndb.com/jokes/random",{
+/*fetch("http://api.icndb.com/jokes/random",{
     method: "POST",
     body:"data"
 })
@@ -35,4 +35,4 @@ fetch("http://api.icndb.com/jokes/random",{
 })
 
 
-
+*/
